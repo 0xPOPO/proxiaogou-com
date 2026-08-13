@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.proxiaogou.com/",
   "designSourceSlug": "stripe",
-  "generatedAt": "2026-08-13T03:00:57.103Z",
+  "generatedAt": "2026-08-13T14:44:42.445Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-proxiaogou-com",
   "templateSlug": "personal-brand-gradient-finance",
   "templateVersion": "0.1.0"
